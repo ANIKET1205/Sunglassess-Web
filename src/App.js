@@ -50,6 +50,14 @@ function App() {
           </Routes>
         </BrowserRouter>
       </div>
+
+      <ins
+        className="adsbygoogle"
+        style={{ display: 'block' }}
+        data-ad-client="ca-pub-6259586123575519"
+        data-ad-slot="5098573614"
+        data-ad-format="auto"
+      ></ins>
     </Provider>
   );
 }
