@@ -113,7 +113,7 @@ function Home() {
   // console.log('OOOO', data)
   return (
     <div className='bg-dark text-white'>
-      <div className='bg-light text-dark p-3'>
+      <div className='bg-light-yellow text-dark p-3'>
         <div className='container p-2 '>
           Welcome {data[0].name === '' ? <>GUEST</> : data[0].name}
         </div>
